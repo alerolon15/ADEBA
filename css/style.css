@@ -2,6 +2,14 @@
   font-family: 'Din';
   src: url(../fonts/DinCond/DINCond-Medium.otf);
 }
+@font-face {
+  font-family: 'DinLight';
+  src: url(../fonts/DinCond/DINCond-Light.otf);
+}
+body{
+  width: 860px;
+  margin: 0 auto;
+}
 * {
   margin: 0px;
   padding: 0px;
@@ -16,29 +24,6 @@
   padding: 30px 0px 0px 0px;
   color: #000;
 }
-h1 {
-  margin-bottom: 5px;
-  font-weight: bold;
-  font-size: 50px;
-}
-h2 {
-  margin-top: 0px;
-  font-size: 38px;
-}
-@media (max-width: 768px) {
-  .logo {
-    text-align: center;
-  }
-  h1 {
-    margin-bottom: 5px;
-    font-weight: bold;
-    font-size: 50px;
-  }
-  h2 {
-    margin-top: 0px;
-    font-size: 38px;
-  }
-}
 .LogoyTexto {
   display: block;
   width: 50%;
@@ -49,12 +34,30 @@ h2 {
 
 }
 #LogoHeader {
-  margin: 10 auto;
-  max-width: 200px;
+  margin: 0 auto;
+  width: 285px;
 }
 .informacion {
   width: 100%;
   background-color: #ff5400;
+}
+.info {
+  color: #FFF;
+  padding: 12px 0px;
+}
+.info > div > p {
+  font-size: 22px;
+  margin: 0;
+  line-height: 1;
+}
+.textoInfo {
+  float:right;
+  margin-left: 12px;
+}
+.textoInfo > p {
+  font-size: 21px;
+  margin: 0;
+  line-height: 1;
 }
 .titulo {
   color: #FFF;
@@ -63,16 +66,17 @@ h2 {
   text-align: center;
 }
 .titulo > div > span {
-  font-size: 40px;
+  font-size: 32px;
 }
 .titulo > P {
+  text-align: left;
   line-height: 1;
-  font-size: 38px;
-  margin: 0px 0px;
+  font-size: 22px;
+  margin: 0px 20px;
 }
 .titulo > div > p {
   line-height: 1;
-  font-size: 38px;
+  font-size: 24px;
   margin: 0px 0px;
   text-align: left;
 }
@@ -103,55 +107,117 @@ h2 {
   background-color: #ff8b00;
 }
 .px13 {
-  top:13px;
+  top:10px;
 }
 .px20 {
-  top:20px;
+  top:15px;
 }
 .px33 {
-  top:33px;
+  top:17px;
+  padding-left: 0px;
 }
 /* SECTION */
 section {
-  background-color: #DDD;
-  font-size: 30px;
+  background-color: #EEE;
+  font-size: 28px;
   padding-top: 30px;
 }
 
 .title {
-  margin-left: 30px;
+  margin-left: 25px;
   color: #ec962f;
-  width: 200px;
+  width: 130px;
   line-height: 1;
 
 }
 .horario {
-  margin-left: 30px;
+  margin-left: 25px;
   color: #555;
-  width: 200px;
+  width: 130px;
   line-height: 1;
+  margin-bottom: 5px;
 }
 .textoSeccion {
-  font-size: 23px;
+  font-size: 18px;
   color: #555;
+  margin-bottom: 0px;
 }
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 13px solid #999;
+    border-top: 10px solid #C5C5C6;
 }
 footer {
-  background-color: #DDD;
+  background-color: #EEE;
 }
 .footerLeft {
-  font-size: 52px;
+  font-size: 34px;
   color: #FFF;
   text-align: center;
+  padding: 18px 0px;
+  margin: 0px;
 }
 .footerRight {
   text-align: center;
-  font-size: 30px;
+  font-size: 22px;
+  line-height: 1;
   color: #FFF;
+  padding: 20px 0px;
   margin-bottom: 0;
+}
+.container {
+  width: 750px;
+}
+.noPadding {
+  padding: 0px 0px 0px 27px;
+}
+.padding0 {
+  padding: 0px;
+}
+strong {
+  color:#333;
+}
+.letraChica {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+.left {
+  float : left;
+}
+.web {
+  margin-top: 10px;
+  margin-left: 55px;
+}
+.whatsapp {
+  margin-top: 10px;
+  margin-left: 35px;
+}
+.telefono {
+  margin-left: 35px;
+}
+.email {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.direccion {
+  margin-top: 10px;
+  margin-left: 28px;
+}
+.arroba {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 15px;
+}
+.fa-whatsapp {
+  margin-top: 3px;
+}
+.fa-phone {
+  margin-top: 22px;
+}
+.fa-at {
+  margin-top: 10px;
 }
