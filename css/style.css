@@ -7,7 +7,7 @@
   src: url(../fonts/DinCond/DINCond-Light.otf);
 }
 body{
-  width: 860px;
+  width: 850px;
   margin: 0 auto;
 }
 * {
@@ -231,4 +231,14 @@ strong {
 .lightBlock {
 	min-height: 45.600px;
 	max-height: 45.600px;
+}
+.masInfo {
+  margin-top: 15px;
+}
+a {
+  color:#ec962f;
+}
+a:hover {
+  color:#ec962f;
+  text-decoration: none;
 }
