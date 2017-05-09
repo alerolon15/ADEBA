@@ -40,8 +40,7 @@ body{
 }
 .informacion {
   width: 100%;
-  background-color: #ff5400;
-  background-image: url('../img/fondo-header2.jpg');
+  background-color: #009A90;
   background-size: cover;
 }
 .info {
@@ -103,11 +102,14 @@ body{
   padding-right: 0px;
   padding-left: 0px;
 }
-.naranja1 {
-  background-color: #FF9934;
+.azul1 {
+  background-color: #002681;
 }
-.naranja2 {
-  background-color: #FF8201;
+.azul2 {
+  background-color: #03519A;
+}
+.azul3 {
+  background-color: #009A90;
 }
 .px13 {
   top:10px;
@@ -128,15 +130,15 @@ section {
 
 .title {
   margin-left: 25px;
-  color: #ec962f;
-  width: 130px;
+  color: #002681;
+  width: 120px;
   line-height: 1;
 
 }
 .horario {
   margin-left: 25px;
   color: #555;
-  width: 130px;
+  width: 150px;
   line-height: 1;
   margin-bottom: 5px;
 }
@@ -144,6 +146,10 @@ section {
   font-size: 18px;
   color: #555;
   margin-bottom: 0px;
+}
+.identar {
+  margin-left: 28px;
+  line-height: 1.1;
 }
 hr {
     margin-top: 20px;
@@ -196,7 +202,7 @@ strong {
   margin-left: 55px;
 }
 .whatsapp {
-  margin-top: 10px;
+  margin-top: 0px;
   margin-left: 35px;
 }
 .telefono {
@@ -236,9 +242,9 @@ strong {
   margin-top: 15px;
 }
 a {
-  color:#ec962f;
+  color:#002681;
 }
 a:hover {
-  color:#ec962f;
+  color:#002681;
   text-decoration: none;
 }
