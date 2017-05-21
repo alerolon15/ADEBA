@@ -187,12 +187,15 @@ footer {
 strong {
   color:#333;
 }
+.Lugar {
+  margin: 0 0 30px 200px;
+}
 .letraChica {
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 1;
   font-family: sans-serif;
-  font-size: 17px;
+  font-size: 13px;
 }
 .left {
   float : left;
