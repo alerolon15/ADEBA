@@ -1,0 +1,439 @@
+var JsonMappingZ0Credito = [{"MappingId":24798,"NameCtxInput":"O#Z0e478nro","NameParameterNode":"Z0e478nro","TypeIO":1,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24799,"NameCtxInput":"O#Z0e476cod","NameParameterNode":"Z0e476cod","TypeIO":1,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24800,"NameCtxInput":"O#Z0e479pgc","NameParameterNode":"Z0e479pgc","TypeIO":1,"DefaultValue":"1","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24801,"NameCtxInput":"O#Z0e479suc","NameParameterNode":"Z0e479suc","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24802,"NameCtxInput":"O#Z0e479cta","NameParameterNode":"Z0e479cta","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24803,"NameCtxInput":"O#Z0e479sct","NameParameterNode":"Z0e479sct","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24804,"NameCtxInput":"O#Z0e479mod","NameParameterNode":"Z0e479mod","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24805,"NameCtxInput":"O#Z0e479mon","NameParameterNode":"Z0e479mon","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24806,"NameCtxInput":"O#Z0e479pap","NameParameterNode":"Z0e479pap","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24807,"NameCtxInput":"O#Z0e479top","NameParameterNode":"Z0e479top","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24808,"NameCtxInput":"O#Z0e479ope","NameParameterNode":"Z0e479ope","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24809,"NameCtxInput":"O#Z0e479pgc2","NameParameterNode":"Z0e479pgc2","TypeIO":1,"DefaultValue":"1","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24810,"NameCtxInput":"O#Z0e479suc2","NameParameterNode":"Z0e479suc2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24811,"NameCtxInput":"O#Z0e479cta2","NameParameterNode":"Z0e479cta2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24812,"NameCtxInput":"O#Z0e479sct2","NameParameterNode":"Z0e479sct2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24813,"NameCtxInput":"O#Z0e479mod2","NameParameterNode":"Z0e479mod2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24814,"NameCtxInput":"O#Z0e479mon2","NameParameterNode":"Z0e479mon2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24815,"NameCtxInput":"O#Z0e479pap2","NameParameterNode":"Z0e479pap2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24816,"NameCtxInput":"O#Z0e479top2","NameParameterNode":"Z0e479top2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24817,"NameCtxInput":"O#Z0e479ope2","NameParameterNode":"Z0e479ope2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24818,"NameCtxInput":"O#Z0e476cms","NameParameterNode":"Z0e476cms","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24819,"NameCtxInput":"O#Z0e467cod","NameParameterNode":"Z0e467cod","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":622},{"MappingId":24820,"NameCtxInput":"O#Fectrn","NameParameterNode":"Fectrn","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24821,"NameCtxInput":"O#Hortrn","NameParameterNode":"Hortrn","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24822,"NameCtxInput":"O#Fecneg","NameParameterNode":"Fecneg","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24823,"NameCtxInput":"O#Nomatm","NameParameterNode":"Nomatm","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24824,"NameCtxInput":"O#Impdeb","NameParameterNode":"Impdeb","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24825,"NameCtxInput":"O#Impcred","NameParameterNode":"Impcred","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24826,"NameCtxInput":"O#Cotiz","NameParameterNode":"Cotiz","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24827,"NameCtxInput":"O#Moneda","NameParameterNode":"Moneda","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24828,"NameCtxInput":"O#Saldo","NameParameterNode":"Saldo","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24829,"NameCtxInput":"O#Drpgc","NameParameterNode":"Drpgc","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24830,"NameCtxInput":"O#Drsuc","NameParameterNode":"Drsuc","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24831,"NameCtxInput":"O#Drmod","NameParameterNode":"Drmod","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24832,"NameCtxInput":"O#Drtrn","NameParameterNode":"Drtrn","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24833,"NameCtxInput":"O#Drrel","NameParameterNode":"Drrel","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24834,"NameCtxInput":"O#Estope","NameParameterNode":"Estope","TypeIO":3,"DefaultValue":"WS","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24835,"NameCtxInput":"O#Texto","NameParameterNode":"Texto","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24836,"NameCtxInput":"O#Tipdep","NameParameterNode":"Z0e4getdd","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24837,"NameCtxInput":"O#Nrosecuencia","NameParameterNode":"Z0e4gesec","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24838,"NameCtxInput":"O#Sldoctble","NameParameterNode":"Sdocble","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24839,"NameCtxInput":"O#Itf","NameParameterNode":"Impitf","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622},{"MappingId":24840,"NameCtxInput":"O#Auximp","NameParameterNode":"Auximp","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":622}];
+var JsonMappingZ0Debito = [{"MappingId":24841,"NameCtxInput":"O#Z0e478nro","NameParameterNode":"Z0e478nro","TypeIO":1,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24842,"NameCtxInput":"O#Z0e476cod","NameParameterNode":"Z0e476cod","TypeIO":1,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24843,"NameCtxInput":"O#Z0e479pgc","NameParameterNode":"Z0e479pgc","TypeIO":1,"DefaultValue":"1","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24844,"NameCtxInput":"O#Z0e479suc","NameParameterNode":"Z0e479suc","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24845,"NameCtxInput":"O#Z0e479cta","NameParameterNode":"Z0e479cta","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24846,"NameCtxInput":"O#Z0e479sct","NameParameterNode":"Z0e479sct","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24847,"NameCtxInput":"O#Z0e479mod","NameParameterNode":"Z0e479mod","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24848,"NameCtxInput":"O#Z0e479mon","NameParameterNode":"Z0e479mon","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24849,"NameCtxInput":"O#Z0e479pap","NameParameterNode":"Z0e479pap","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24850,"NameCtxInput":"O#Z0e479top","NameParameterNode":"Z0e479top","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24851,"NameCtxInput":"O#Z0e479ope","NameParameterNode":"Z0e479ope","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24852,"NameCtxInput":"O#Z0e479pgc2","NameParameterNode":"Z0e479pgc2","TypeIO":1,"DefaultValue":"1","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24853,"NameCtxInput":"O#Z0e479suc2","NameParameterNode":"Z0e479suc2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24854,"NameCtxInput":"O#Z0e479cta2","NameParameterNode":"Z0e479cta2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24855,"NameCtxInput":"O#Z0e479sct2","NameParameterNode":"Z0e479sct2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24856,"NameCtxInput":"O#Z0e479mod2","NameParameterNode":"Z0e479mod2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24857,"NameCtxInput":"O#Z0e479mon2","NameParameterNode":"Z0e479mon2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24858,"NameCtxInput":"O#Z0e479pap2","NameParameterNode":"Z0e479pap2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24859,"NameCtxInput":"O#Z0e479top2","NameParameterNode":"Z0e479top2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24860,"NameCtxInput":"O#Z0e479ope2","NameParameterNode":"Z0e479ope2","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24861,"NameCtxInput":"O#Z0e476cms","NameParameterNode":"Z0e476cms","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24862,"NameCtxInput":"O#Z0e467cod","NameParameterNode":"Z0e467cod","TypeIO":1,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada","MapperId":623},{"MappingId":24863,"NameCtxInput":"O#Fectrn","NameParameterNode":"Fectrn","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24864,"NameCtxInput":"O#Hortrn","NameParameterNode":"Hortrn","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24865,"NameCtxInput":"O#Fecneg","NameParameterNode":"Fecneg","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24866,"NameCtxInput":"O#Nomatm","NameParameterNode":"Nomatm","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24867,"NameCtxInput":"O#Impdeb","NameParameterNode":"Impdeb","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24868,"NameCtxInput":"O#Impcred","NameParameterNode":"Impcred","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24869,"NameCtxInput":"O#Cotiz","NameParameterNode":"Cotiz","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24870,"NameCtxInput":"O#Moneda","NameParameterNode":"Moneda","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24871,"NameCtxInput":"O#Saldo","NameParameterNode":"Saldo","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24872,"NameCtxInput":"O#Drpgc","NameParameterNode":"Drpgc","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24873,"NameCtxInput":"O#Drsuc","NameParameterNode":"Drsuc","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24874,"NameCtxInput":"O#Drmod","NameParameterNode":"Drmod","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24875,"NameCtxInput":"O#Drtrn","NameParameterNode":"Drtrn","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24876,"NameCtxInput":"O#Drrel","NameParameterNode":"Drrel","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24877,"NameCtxInput":"O#Estope","NameParameterNode":"Estope","TypeIO":3,"DefaultValue":"WS","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24878,"NameCtxInput":"O#Texto","NameParameterNode":"Texto","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24879,"NameCtxInput":"O#Tipdep","NameParameterNode":"Z0e4getdd","TypeIO":3,"DefaultValue":"","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24880,"NameCtxInput":"O#Nrosecuencia","NameParameterNode":"Z0e4gesec","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24881,"NameCtxInput":"O#Sldoctble","NameParameterNode":"Sdocble","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24882,"NameCtxInput":"O#Itf","NameParameterNode":"Impitf","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623},{"MappingId":24883,"NameCtxInput":"O#Auximp","NameParameterNode":"Auximp","TypeIO":3,"DefaultValue":"0","Position":0,"TypeIODesc":"Entrada y Salida","MapperId":623}];
+
+
+var JsonMappingX9 = [{
+	"MappingId": 10399,
+	"NameCtxInput": "O#Acnco",
+	"NameParameterNode": "Acnco",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10400,
+	"NameCtxInput": "O#Dfecl",
+	"NameParameterNode": "Dfecl",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10401,
+	"NameCtxInput": "O#Dhocl",
+	"NameParameterNode": "Dhocl",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10402,
+	"NameCtxInput": "O#Drqcl",
+	"NameParameterNode": "Drqcl",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10403,
+	"NameCtxInput": "O#Bopco",
+	"NameParameterNode": "Bopco",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10404,
+	"NameCtxInput": "O#Cvart",
+	"NameParameterNode": "Cvart",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10405,
+	"NameCtxInput": "O#Drqus",
+	"NameParameterNode": "Drqus",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10406,
+	"NameCtxInput": "O#Drqws",
+	"NameParameterNode": "Drqws",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10407,
+	"NameCtxInput": "",
+	"NameParameterNode": "Ddpgc",
+	"TypeIO": 1,
+	"DefaultValue": "1",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10408,
+	"NameCtxInput": "O#Ddsuc",
+	"NameParameterNode": "Ddsuc",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10409,
+	"NameCtxInput": "O#Ddmod",
+	"NameParameterNode": "Ddmod",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10410,
+	"NameCtxInput": "O#Ddmda",
+	"NameParameterNode": "Ddmda",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10411,
+	"NameCtxInput": "O#Ddpap",
+	"NameParameterNode": "Ddpap",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10412,
+	"NameCtxInput": "O#Ddcta",
+	"NameParameterNode": "Ddcta",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10413,
+	"NameCtxInput": "O#Ddope",
+	"NameParameterNode": "Ddope",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10414,
+	"NameCtxInput": "O#Ddsbo",
+	"NameParameterNode": "Ddsbo",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10415,
+	"NameCtxInput": "O#Ddtop",
+	"NameParameterNode": "Ddtop",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10416,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcpgc",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10417,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcsuc",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10418,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcmod",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10419,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcmda",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10420,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcpap",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10421,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dccta",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10422,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcope",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10423,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcsbo",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10424,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dctop",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10425,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dimpo",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10426,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dimp2",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10427,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dmdao",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10428,
+	"NameCtxInput": "",
+	"NameParameterNode": "Dcotz",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10429,
+	"NameCtxInput": "",
+	"NameParameterNode": "Ecantlin",
+	"TypeIO": 1,
+	"DefaultValue": "2",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10430,
+	"NameCtxInput": "",
+	"NameParameterNode": "Hashreq",
+	"TypeIO": 1,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10431,
+	"NameCtxInput": "",
+	"NameParameterNode": "Drpgc",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10432,
+	"NameCtxInput": "",
+	"NameParameterNode": "Drsuc",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10433,
+	"NameCtxInput": "",
+	"NameParameterNode": "Drmod",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10434,
+	"NameCtxInput": "",
+	"NameParameterNode": "Drtrn",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10435,
+	"NameCtxInput": "",
+	"NameParameterNode": "Drrel",
+	"TypeIO": 1,
+	"DefaultValue": "0",
+	"Position": 0,
+	"TypeIODesc": "Entrada",
+	"MapperId": 229
+},
+{
+	"MappingId": 10436,
+	"NameCtxInput": "O#Grsco",
+	"NameParameterNode": "Grsco",
+	"TypeIO": 2,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Salida",
+	"MapperId": 229
+},
+{
+	"MappingId": 10437,
+	"NameCtxInput": "O#Drsdo",
+	"NameParameterNode": "Drsdo",
+	"TypeIO": 2,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Salida",
+	"MapperId": 229
+},
+{
+	"MappingId": 10438,
+	"NameCtxInput": "O#Drsdd",
+	"NameParameterNode": "Drsdd",
+	"TypeIO": 2,
+	"DefaultValue": "",
+	"Position": 0,
+	"TypeIODesc": "Salida",
+	"MapperId": 229
+}];
+
+var JsonMapping = JsonMappingZ0Credito;
+
+for (var i = 0; i < JsonMapping.length; i++) {
+
+    $("#txtNameCtxInput").val("");
+    $("#txtNameParameterNode").val("");
+    $("#txtDefaultValue").val("");
+    $("#txtNameParameterNode").val("");
+    $("#cboTypeIO").val("");
+    $("#txtPosition").val("");
+
+    SelectedMapping().MappingId = null;
+    // muestra el popup
+    ($('#popup-mapping').modal('show'));
+
+    console.log(JsonMapping[i].NameCtxInput);
+    $("#txtNameCtxInput").val(JsonMapping[i].NameCtxInput);
+    console.log(JsonMapping[i].NameParameterNode);
+    $("#txtNameParameterNode").val(JsonMapping[i].NameParameterNode);
+    console.log(JsonMapping[i].DefaultValue);
+    $("#txtDefaultValue").val(JsonMapping[i].DefaultValue);
+    console.log(JsonMapping[i].TypeIO);
+    $("#cboTypeIO").val(JsonMapping[i].TypeIO);
+    console.log(JsonMapping[i].Position);
+    $("#txtPosition").val(JsonMapping[i].Position);
+
+
+    SavePopupData();
+
+    console.log("va yendo = " + i + " de: " + JsonMapping.length);
+
+}
+
+saveMapper();
